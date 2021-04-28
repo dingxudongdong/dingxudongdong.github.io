@@ -1,0 +1,2 @@
+# dingxudongdong.github.io
+hexo
